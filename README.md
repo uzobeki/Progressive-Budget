@@ -5,7 +5,6 @@
   ## Table of Contents
   * [Task](#task)
   * [Preview](#preview)
-  * [Thoughts](#thoughts)
   * [Technologies Used](#technologies)
   * [Links](#links)
 
@@ -23,9 +22,6 @@ Budget Tracker <br>
 Offline
 ![Stats Image](assets/Stats.png)
 
-
-
-## Thoughts :thinking:
 
 
 ## Technologies Used
